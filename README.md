@@ -79,7 +79,7 @@ The objective of this project is to:
 ### **Employee Performance Dashboard Insights**  
 ---
 
-![Employee Performance Dashboard](Employee_Dashboard.png)
+![Employee Performance Dashboard](Employee_Performance_Dashboard.png)
 
 #### **Employee Across Departments**  
 ---
